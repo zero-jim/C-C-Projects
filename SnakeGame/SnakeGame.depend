@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547644558 source:e:\programs & projects\projects\qt projects\snake game\snakegame\main.cpp
+	<bits/stdc++.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+
